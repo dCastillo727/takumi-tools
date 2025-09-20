@@ -1,0 +1,9 @@
+name: takumi_tools
+publish_to: none
+description: "Flutter command line script tools for frequent actions"
+
+environment:
+  sdk: ^3.9.2
+
+workspace:
+  - packages/build_tool
