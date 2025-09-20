@@ -1,0 +1,3 @@
+mixin PlatformOptionsMixin {
+  String buildPlatformCommandOptions();
+}
